@@ -47,24 +47,30 @@ Este comportamiento cumple con el requisito de **modo offline básico** solicita
 ## Instalación y ejecución del proyecto
 
 ### 1. Clonar el repositorio
-```bash
+  ```bash
 git clone https://github.com/tuusuario/PWA-Pokedex.git
+  ```
+---
 
 ### 2. Entrar a la carpeta del proyecto
 ```bash
 cd PWA-Pokedex
+ ```
 
 ### 3. Instalar Dependencias
 ```bash
 npm install
+ ```
 
 ### 4. Ejecuitar en modo desarrollador
 ```bash
 npm run dev
+ ```
 
 ### 5. La aplicación se abrirá en el navegador en una dirección similar a:
 ```bash
 http://localhost:5173
+ ```
 
 
 ## Instalación de la aplicación (PWA)
